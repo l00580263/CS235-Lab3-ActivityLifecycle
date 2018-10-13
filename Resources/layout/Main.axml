@@ -8,4 +8,9 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/mybutton_text" />
+	<Button
+        android:id="@+id/clickButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/counterbutton_text" />
 </LinearLayout>
